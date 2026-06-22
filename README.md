@@ -2,7 +2,7 @@
 
 Um aplicativo desktop desenvolvido em Java para consulta de previsão do tempo. O sistema integra dados climáticos oficiais do CPTEC/INPE com a base de municípios do IBGE, oferecendo uma interface gráfica moderna com suporte a *Dark Mode*.
 
-
+<img width="512px" src="./img/tela-principal.jpeg"/>
 
 ## 🚀 Funcionalidades
 
